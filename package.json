@@ -1,6 +1,6 @@
 {
   "name": "dog-says-what",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package if you ever forget what a dog says",
   "main": "index.js",
   "scripts": {
