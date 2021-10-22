@@ -1,0 +1,19 @@
+{
+  "name": "dog-says-what",
+  "version": "1.0.1",
+  "description": "A package if you ever forget what a dog says",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dog",
+    "says",
+    "what"
+  ],
+  "author": "Beau Muylle",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
