@@ -1,10 +1,10 @@
 {
   "name": "dog-says-what",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package if you ever forget what a dog says",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Do you realy think this needs a test script, lol\""
   },
   "keywords": [
     "dog",
@@ -15,5 +15,10 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0"
+  },
+  "homepage": "https://github.com/beaumu/dog-says-what",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beaumu/dog-says-what"
   }
 }
