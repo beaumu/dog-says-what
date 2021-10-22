@@ -4,7 +4,9 @@
   "description": "A package if you ever forget what a dog says",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Do you realy think this needs a test script, lol\""
+    "test": "echo \"Do you realy think this needs a test script, lol\"",
+    "commit": "git-cz",
+    "release": "standard-version"
   },
   "keywords": [
     "dog",
